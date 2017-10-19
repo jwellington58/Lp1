@@ -1,0 +1,5 @@
+Fatura do mes: 11/2016
+ Cliente: Carlos Antonio
+||Data: 1/10/2016||Descricao: Saraiva SP||Valor: 52.50||Parcela 1/1||
+||Data: 1/10/2016||Descricao: Americanas SP||Valor: 299.00||Parcela 1/2||
+||Total: 202.00|| Minimo: 20.20||
